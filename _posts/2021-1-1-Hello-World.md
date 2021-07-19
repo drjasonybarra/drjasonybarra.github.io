@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Welcome!
+title: Contact
+category: information
 ---
 
-This site 
+Office:
+DANA 267
+Davidson College
