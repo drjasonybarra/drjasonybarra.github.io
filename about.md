@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I teach physics at Davidson College
+I teach physics at [Davidson College](https://www.davidson.edu/academic-departments/physics)
 
 I am passionate about helping my students learn and gain the skills for success.
 
 My research interests include galactic star formation, physics education research and the history of astronomy.
 
-I am a poet who has been published in Sensations Magazine, [Vox Poetica](http://voxpoetica.com/), and the anthology We are Residents Here.
+I am a poet who has been published in *Sensations Magazine*, [*Vox Poetica*](http://voxpoetica.com/), and the anthology *We are Residents Here*.
 
 I enjoy hiking and camping in the mountains.
 
