@@ -13,9 +13,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Collections
 collections:
-  poems
-  astro-history-posts
-  astro-web-apps
+  poems:
+    output: true 
+  astro-web-apps:
+    output: false 
+  
   
 
 #
