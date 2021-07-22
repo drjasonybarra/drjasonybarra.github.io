@@ -16,3 +16,13 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+<ul class="listing">
+    {% assign poems = site.poems | where: "featured", "true" | sort: 'featured-priority' %}
+    {% for poems in poems %}
+    <li>
+        <h3>{{ poem.title }}</h3>
+        <a href="{{ poem.url }}">Learn about {{ poem.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
