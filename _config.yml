@@ -11,6 +11,13 @@ description: Astrophysicist, Learning Facilitator, Poet
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+# Collections
+collections:
+  poems
+  astro-history-posts
+  astro-web-apps
+  
+
 #
 # Flags below are optional
 #
