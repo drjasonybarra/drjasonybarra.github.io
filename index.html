@@ -18,11 +18,11 @@ layout: default
 </div>
 
 <ul class="listing">
+  <h2>Featured Poems</h2>
     {% assign poems = site.poems | where: "featured", "true" | sort: 'featured-priority' %}
     {% for poems in poems %}
     <li>
-        <h3>{{ poems.title }}</h3>
-        <a href="{{ poems.url }}">Learn about {{ poems.title }}</a>
+        <a href="{{ poems.url }}">{{ poems.title }}</a>
     </li>
     {% endfor %}
 </ul>
