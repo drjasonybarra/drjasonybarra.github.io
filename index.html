@@ -21,8 +21,8 @@ layout: default
     {% assign poems = site.poems | where: "featured", "true" | sort: 'featured-priority' %}
     {% for poems in poems %}
     <li>
-        <h3>{{ poem.title }}</h3>
-        <a href="{{ poem.url }}">Learn about {{ poem.title }}</a>
+        <h3>{{ poems.title }}</h3>
+        <a href="{{ poems.url }}">Learn about {{ poems.title }}</a>
     </li>
     {% endfor %}
 </ul>
