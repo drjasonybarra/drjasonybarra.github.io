@@ -1,29 +1,35 @@
-Which knee angers you?
-Which knee keeps you up at night?
+---
+layout: page
+title: Mitote
+featured: true
+---
 
-The knee pressed into the ground
-to elevate,
-or
-the knee pressed into a neck,
-to suffocate?
+Which knee angers you?  
+Which knee keeps you up at night?  
 
-Which knee angers you?
-Which knee will cause you to speak?
+The knee pressed into the ground  
+to elevate,  
+or  
+the knee pressed into a neck,  
+to suffocate?  
 
-The knee that promotes
-humanity,
-or
-the knee that commits
-atrocities?
+Which knee angers you?  
+Which knee will cause you to speak?  
 
-Which knee angers you?
-Which knee is a threat to you?
+The knee that promotes  
+humanity,  
+or  
+the knee that commits  
+atrocities?  
+
+Which knee angers you?  
+Which knee is a threat to you?  
  
-The knee that demands accountability,
-or
-the tool used in brutality?
+The knee that demands accountability,  
+or  
+the tool used in brutality?  
 
-Which knee angers you?
-Which knee will cause you to act?
+Which knee angers you?  
+Which knee will cause you to act?  
 
 Originally published in Vox Poetica on 04 June 2020
