@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mitote
+title: Which Knee?
 featured: true
 ---
 
