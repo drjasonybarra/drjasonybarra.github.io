@@ -32,4 +32,7 @@ the tool used in brutality?
 Which knee angers you?  
 Which knee will cause you to act?  
 
-Originally published in Vox Poetica on 04 June 2020
+---
+Originally published in Vox Poetica on 04 June 2020  
+
+Copyright © 2020 Jason E. Ybarra
